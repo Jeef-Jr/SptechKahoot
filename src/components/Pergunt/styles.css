@@ -1,0 +1,11 @@
+#container-pergunt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+  width: 700px;
+  font-size: 40px;
+  background-color: #6c757d;
+  border-radius: 10px;
+}

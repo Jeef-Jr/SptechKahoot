@@ -1,0 +1,20 @@
+#btn {
+  cursor: pointer;
+  width: 300px;
+  height: 80px;
+  background-color: #441090;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 10px;
+  transition: all 0.2s;
+}
+
+a {
+  text-decoration: none;
+}
+
+#btn:hover {
+  background-color: #5816bc;
+}

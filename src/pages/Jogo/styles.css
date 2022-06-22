@@ -1,0 +1,33 @@
+#container_jogo {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 5%;
+}
+
+.duo {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#fase2 {
+  display: none;
+}
+#fase3 {
+  display: none;
+}
+#fase4 {
+  display: none;
+}
+
+#resultado {
+  display: none;
+  margin: 50px;
+  font-size: 50px;
+  font-weight: 900;
+  background-color: #3d5a80;
+  padding: 20px;
+  border-radius: 20px;
+}
